@@ -1,4 +1,11 @@
-import { dataTypes } from "./basics.js"
+import { dataTypes, stringMethods, arrayMethods } from "./basics.js"
 
+import { whileLoop } from "./loops.js"
 
-dataTypes()
+//dataTypes();
+
+//stringMethods();
+
+//arrayMethods();
+
+whileLoop();
